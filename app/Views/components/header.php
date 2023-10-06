@@ -8,7 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="author" content="Padisick-dev">
   <!-- Site Title -->
-  <title>Homepage Padisick</title>
+  <title><?= $title ?></title>
   <!-- Stylesheet -->
   <link rel="stylesheet" href="assets/css/fontawesome.min.css">
   <link rel="stylesheet" href="assets/css/bootstrap.min.css">

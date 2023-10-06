@@ -7,3 +7,4 @@ use CodeIgniter\Router\RouteCollection;
  */
 $routes->get('/', 'HomepageController::index');
 $routes->get('/about-us', 'AboutController::index');
+$routes->get('/detection', 'DetectionController::index');

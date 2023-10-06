@@ -20,12 +20,12 @@
     <div class="row">
       <div class="col-sm-6 col-md-6">
         <div class="cs-footer__item">
-          <h2 class="cs-widget__title">About</h2>
-          <div class="cs-footer__widget__text">We always try to give our best quality guidence for our all clients. So they will success & growth business well.</div>
+          <h2 class="cs-widget__title">Tentang</h2>
+          <div class="cs-footer__widget__text">Projek ini dikembangkan untuk mengenali dan mengklasifikasikan penyakit tanaman padi.</div>
           <div class="cs-height__15 cs-height__lg__15"></div>
           <div class="cs-social__btns cs-style1">
             <a href="https://instagram.com/padisick"><i class="fab fa-instagram"></i></a>
-            <a href="#"><i class="fab fa-pinterest-p"></i></a>
+            <a href="mailto:info@padisick.com"><i class="fa fa-envelope"></i></a>
           </div>
         </div>
       </div><!-- .col -->
@@ -33,10 +33,10 @@
         <div class="cs-footer__item widget_nav_menu">
           <h2 class="cs-widget__title">Quick Links</h2>
           <ul class="menu">
-            <li><a href="index.html">Beranda</a></li>
-            <li><a href="about_2.html">Info</a></li>
-            <li><a href="service.html">Deteksi</a></li>
-            <li><a href="service.html">Tentang</a></li>
+            <li><a href="<?= base_url('/') ?>">Beranda</a></li>
+            <li><a href="<?= base_url('/') ?>">Info</a></li>
+            <li><a href="<?= base_url('/') ?>">Deteksi</a></li>
+            <li><a href="<?= base_url('/about-us') ?>">Tentang</a></li>
           </ul>
         </div>
       </div><!-- .col -->

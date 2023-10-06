@@ -6,7 +6,8 @@ class HomepageController extends BaseController
 {
     public function index(): string
     {
-        return view('components/header') .
+        $data['title'] = 'Beranda';
+        return view('components/header', $data) .
             view('homepage') .
             view('components/footer');
     }

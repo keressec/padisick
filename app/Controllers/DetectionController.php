@@ -4,13 +4,13 @@ namespace App\Controllers;
 
 use App\Controllers\BaseController;
 
-class AboutController extends BaseController
+class DetectionController extends BaseController
 {
-    public function index(): string
+    public function index()
     {
-        $data['title'] = 'Tentang';
+        $data['title'] = 'Deteksi';
         return view('components/header', $data) .
-            view('about') .
+            view('detection') .
             view('components/footer');
     }
 }

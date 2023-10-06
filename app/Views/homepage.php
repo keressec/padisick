@@ -2,7 +2,6 @@
 <!-- Start Header Section -->
 <?= $this->include('layouts/header') ?>
 <!-- End Header Section -->
-<!-- Start Hero -->
 <div class="cs-hero cs-style1 cs-center">
   <div class="container">
     <div class="cs-hero__text wow fadeInRight" data-wow-duration="0.8s" data-wow-delay="0.3s">

@@ -12,7 +12,7 @@
               </li>
               <li class="menu-item cs-mega-menu"><a href="#">Info</a>
               </li>
-              <li class="menu-item cs-mega-menu"><a href="#">Deteksi</a>
+              <li class="menu-item cs-mega-menu"><a href="<?= base_url('/detection') ?>">Deteksi</a>
               </li>
               <li class="menu-item cs-mega-menu"><a href="<?= base_url('/about-us') ?>">Tentang</a>
               </li>

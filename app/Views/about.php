@@ -2,8 +2,6 @@
 <!-- Start Header Section -->
 <?= $this->include('layouts/header') ?>
 <!-- End Header Section -->
-
-<!-- End Page Head -->
 <div class="cs-height__120 cs-height__lg__70"></div>
 <div class="container">
   <div class="cs-section__heading cs-style1 text-center">
@@ -140,7 +138,6 @@
   </div>
 </div>
 
-
 <!-- Start Logo Carousel -->
 <div class="container">
   <div class="cs-height__80 cs-height__lg__30"></div>
@@ -153,42 +150,27 @@
       <div class="cs-slider__wrapper">
         <div class="cs-slide">
           <div class="cs-logo__carousel cs-style1">
-            <img src="assets/img/agency/brand1.png" alt="">
+            <img src="assets/img/about/kemdikbud.png" alt="Logo Kemendikbudristek" style="width: 100px; height: 100px;">
           </div>
         </div><!-- .cs-slide -->
         <div class="cs-slide">
           <div class="cs-logo__carousel cs-style1">
-            <img src="assets/img/agency/brand2.png" alt="">
+            <img src="assets/img/about/km.png" alt="Logo Kampus Merdeka" style="width: 187px; height: 100px;">
           </div>
         </div><!-- .cs-slide -->
         <div class="cs-slide">
           <div class="cs-logo__carousel cs-style1">
-            <img src="assets/img/agency/brand3.png" alt="">
+            <img src="assets/img/about/pkm.png" alt="Logo PKM" style="width: 177px; height: 100px;">
           </div>
         </div><!-- .cs-slide -->
         <div class="cs-slide">
           <div class="cs-logo__carousel cs-style1">
-            <img src="assets/img/agency/brand4.png" alt="">
+            <img src="assets/img/about/simbelmawa.png" alt="Logo Simbelmawa" style="width: 245px; height: 100px;">
           </div>
         </div><!-- .cs-slide -->
         <div class="cs-slide">
           <div class="cs-logo__carousel cs-style1">
-            <img src="assets/img/agency/brand1.png" alt="">
-          </div>
-        </div><!-- .cs-slide -->
-        <div class="cs-slide">
-          <div class="cs-logo__carousel cs-style1">
-            <img src="assets/img/agency/brand2.png" alt="">
-          </div>
-        </div><!-- .cs-slide -->
-        <div class="cs-slide">
-          <div class="cs-logo__carousel cs-style1">
-            <img src="assets/img/agency/brand3.png" alt="">
-          </div>
-        </div><!-- .cs-slide -->
-        <div class="cs-slide">
-          <div class="cs-logo__carousel cs-style1">
-            <img src="assets/img/agency/brand4.png" alt="">
+            <img src="assets/img/about/stiki.png" alt="Logo STIKI Malang" style="width: 100px; height: 100px;">
           </div>
         </div><!-- .cs-slide -->
       </div>
