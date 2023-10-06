@@ -7,16 +7,16 @@
   <div class="container">
     <div class="cs-hero__text wow fadeInRight" data-wow-duration="0.8s" data-wow-delay="0.3s">
       <h1 class="cs-hero__title">Identifikasi Penyakit <br>Tanaman Padi Anda!</h1>
-      <div class="cs-hero__subtitle">We are here to deliver you inovative cool idea about your business. <br>Come to us and discuse for your dream business.</div>
+      <div class="cs-hero__subtitle">Jangan lewatkan langkah baru yang mengagumkan ini!<br>Sekarang, kenali penyakit pada daun padi hanya dalam waktu 1 menit.</div>
       <div class="cs-btns cs-style1">
         <a href="#workingprocess" class="cs-btn cs-style1 cs-color1 cs-primary__font">
-          <span class="cs-btn__text">Learn More</span>
+          <span class="cs-btn__text">Pelajari Selanjutnya</span>
         </a>
       </div>
     </div>
   </div>
   <div class="cs-hero__img cs-parallax">
-    <div class="cs-to__right"><img src="assets/img/farmer-img.png" alt="Farmer Image"></div>
+    <div class="cs-to__right"><img src="assets/img/homepage/farmer-img.png" alt="Farmer Image"></div>
   </div>
   <div class="cs-partical__shape_wrap">
     <div class="cs-partical__shape cs-shape__position1">
@@ -70,7 +70,7 @@
     <div class="cs-section__heading cs-style1 text-center" id="workingprocess">
       <h2 class="cs-section__title wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s">Proses Kerja Kami</h2>
       <div class="cs-height__25 cs-height__lg__15"></div>
-      <div class="cs-section__subtitle">Consulted he eagerness unfeeling deficient existence of. Calling nothing end fertile for venture <br>way boy. Esteem spirit temper too say adieus who direct esteem.</div>
+      <div class="cs-section__subtitle">Terdiri dari tahapan yang terstruktur dan terfokus yang mencakup pendengaran kebutuhan, perancangan solusi, pengembangan kreatif, pengujian ketat, dan dukungan berkelanjutan</div>
     </div>
     <div class="cs-height__70 cs-height__lg__50"></div>
     <div class="row">
@@ -116,7 +116,7 @@
                 </svg>
               </div>
               <h2 class="cs-icon__box__title">Model</h2>
-              <div class="cs-icon__box__subtitle">Mengembangkan Model machine learning dengan algoritma CNN</div>
+              <div class="cs-icon__box__subtitle">Mengembangkan model machine learning dengan algoritma CNN</div>
             </div>
           </div>
         </a>
@@ -132,7 +132,7 @@
                 </svg>
               </div>
               <h2 class="cs-icon__box__title">Website</h2>
-              <div class="cs-icon__box__subtitle">Mengembangkan website untuk mendeteksi penyakit tanaman padi</div>
+              <div class="cs-icon__box__subtitle">Mengembangkan Sistem untuk mendeteksi penyakit tanaman padi</div>
             </div>
           </div>
         </a>
@@ -152,50 +152,46 @@
     <div class="cs-section__heading cs-style1 text-center">
       <h2 class="cs-section__title wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s">Statistik Aplikasi Kami</h2>
       <div class="cs-height__25 cs-height__lg__15"></div>
-      <div class="cs-section__subtitle">Consulted he eagerness unfeeling deficient existence of. Calling nothing end fertile for venture <br>way boy. Esteem spirit temper too say adieus who direct esteem.</div>
+      <div class="cs-section__subtitle">Inovasi ini telah memungkinkan kami untuk menghadirkan solusi yang efektif dalam pertanian, dengan tujuan utama untuk memitigasi kerusakan yang disebabkan oleh penyakit tanaman pada produksi padi.</div>
     </div>
     <div class="cs-height__70 cs-height__lg__50"></div>
     <div class="container">
       <div class="text-center">
-        <img src="assets/img/statistic.jpg" alt="">
+        <img src="assets/img/homepage/statistic.jpg" alt="">
       </div>
       <div class="cs-height__60 cs-height__lg__40"></div>
       <div class="row">
         <div class="col-lg-3 col-sm-6">
           <div class="cs-counter cs-style1 text-center">
             <div class="cs-counter__number">
-              <span data-count-to="90" class="odometer"></span>
+              <span data-count-to="97" class="odometer"></span><span>%</span>
             </div>
-            <h4 class="cs-counter__title">Akurasi</h4>
+            <h4 class="cs-counter__title">Akurasi Deteksi</h4>
           </div>
-          <div class="cs-height__25 cs-height__lg__25"></div>
         </div>
         <div class="col-lg-3 col-sm-6">
           <div class="cs-counter cs-style1 text-center">
             <div class="cs-counter__number">
-              <span data-count-to="854" class="odometer"></span>
+              <span data-count-to="1600" class="odometer"></span><span>+</span>
             </div>
-            <h4 class="cs-counter__title">Happy Clients</h4>
+            <h4 class="cs-counter__title">Dataset Pengujian</h4>
           </div>
-          <div class="cs-height__25 cs-height__lg__25"></div>
         </div>
         <div class="col-lg-3 col-sm-6">
           <div class="cs-counter cs-style1 text-center">
             <div class="cs-counter__number">
-              <span data-count-to="15" class="odometer"></span>
+              <span data-count-to="30" class="odometer"></span><span>s</span>
             </div>
-            <h4 class="cs-counter__title">GET AWARDS</h4>
+            <h4 class="cs-counter__title">Waktu Respon</h4>
           </div>
-          <div class="cs-height__25 cs-height__lg__25"></div>
         </div>
         <div class="col-lg-3 col-sm-6">
           <div class="cs-counter cs-style1 text-center">
             <div class="cs-counter__number">
-              <span data-count-to="30" class="odometer"></span><span>+</span>
+              <span data-count-to="10" class="odometer"></span>
             </div>
-            <h4 class="cs-counter__title">TOTAL EMPLOYEE</h4>
+            <h4 class="cs-counter__title">Jumlah Pengguna</h4>
           </div>
-          <div class="cs-height__25 cs-height__lg__25"></div>
         </div>
       </div>
     </div>
@@ -243,22 +239,7 @@
   </div>
 </div>
 <!-- End Counter -->
-<!-- Start CTA -->
-<div class="cs-cta cs-style1 text-center">
-  <div class="cs-cta-in text-center cs-bg__parallax" data-src="assets/img/agency/cta-bg.png">
-    <div class="container">
-      <div class="cs-cta__in">
-        <h2 class="cs-cta__title wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s">Butuh Bantuan? Konsultasi Gratis dengan CS Kami</h2>
-        <div class="cs-cta__btn">
-          <a href="contact_1.html" class="cs-btn cs-style1 cs-color3 cs-primary__font">
-            <span class="cs-btn__text">Contact Now</span>
-          </a>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<!-- End CTA -->
+
 <!-- Footer Section -->
 <?= $this->include('layouts/footer') ?>
 <!-- Footer Section -->

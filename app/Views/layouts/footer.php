@@ -1,53 +1,42 @@
+<!-- Start CTA -->
+<div class="cs-cta cs-style1 cs-color2 text-center">
+  <div class="cs-cta-in text-center cs-bg__parallax" data-src="assets/img/agency/cta-bg.png">
+    <div class="container">
+      <div class="cs-cta__in">
+        <h2 class="cs-cta__title wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s">Butuh Bantuan? Konsultasi Gratis dengan Kami Sekarang!</h2>
+        <div class="cs-cta__btn">
+          <a href="mailto:info@padisick.com" class="cs-btn cs-style1 cs-color3 cs-primary__font">
+            <span class="cs-btn__text">Kontak Kami</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End CTA -->
 <footer class="cs-footer cs-style1 cs-parallax">
   <div class="cs-height__110 cs-height__lg__70"></div>
   <div class="container">
     <div class="row">
-      <div class="col-lg-3 col-sm-6">
+      <div class="col-sm-6 col-md-6">
         <div class="cs-footer__item">
           <h2 class="cs-widget__title">About</h2>
           <div class="cs-footer__widget__text">We always try to give our best quality guidence for our all clients. So they will success & growth business well.</div>
           <div class="cs-height__15 cs-height__lg__15"></div>
           <div class="cs-social__btns cs-style1">
-            <a href="#"><i class="fab fa-facebook-f"></i></a>
-            <a href="#"><i class="fab fa-twitter"></i></a>
-            <a href="#"><i class="fab fa-instagram"></i></a>
+            <a href="https://instagram.com/padisick"><i class="fab fa-instagram"></i></a>
             <a href="#"><i class="fab fa-pinterest-p"></i></a>
           </div>
         </div>
       </div><!-- .col -->
-      <div class="col-lg-3 col-sm-6">
-        <div class="cs-footer__item widget_nav_menu">
-          <h2 class="cs-widget__title">Services</h2>
-          <ul class="menu">
-            <li><a href="#">IT Consultant</a></li>
-            <li><a href="#">Business Growth</a></li>
-            <li><a href="#">Investent Plan</a></li>
-            <li><a href="#">Product Development</a></li>
-            <li><a href="#">Industrial Consultant</a></li>
-          </ul>
-        </div>
-      </div><!-- .col -->
-      <div class="col-lg-3 col-sm-6">
-        <div class="cs-footer__item widget_nav_menu">
-          <h2 class="cs-widget__title">Support</h2>
-          <ul class="menu">
-            <li><a href="#">Documentation</a></li>
-            <li><a href="#">Product</a></li>
-            <li><a href="#">Reporting Issue</a></li>
-            <li><a href="#">Terms & Conditions</a></li>
-            <li><a href="#">Privacy Policy</a></li>
-          </ul>
-        </div>
-      </div><!-- .col -->
-      <div class="col-lg-3 col-sm-6">
+      <div class="col-md-6 col-sm-6">
         <div class="cs-footer__item widget_nav_menu">
           <h2 class="cs-widget__title">Quick Links</h2>
           <ul class="menu">
-            <li><a href="index.html">Home</a></li>
-            <li><a href="about_2.html">About</a></li>
-            <li><a href="service.html">Services</a></li>
-            <li><a href="pricing.html">Pricing</a></li>
-            <li><a href="contact_1.html">Contact</a></li>
+            <li><a href="index.html">Beranda</a></li>
+            <li><a href="about_2.html">Info</a></li>
+            <li><a href="service.html">Deteksi</a></li>
+            <li><a href="service.html">Tentang</a></li>
           </ul>
         </div>
       </div><!-- .col -->
