@@ -88,25 +88,25 @@
     <div class="cs-height__70 cs-height__lg__50"></div>
   </div>
   <!-- Form Upload File -->
-  <div class="container">
+  <div class="container text-center">
     <div class="cs-section__heading cs-style1 text-center">
       <h2 class="cs-section__title text-center">Upload Gambar</h2>
       <div class="cs-height__25 cs-height__lg__15"></div>
       <div class="cs-section__subtitle">Unggah gambar tanaman padi Anda untuk mendeteksi penyakitnya</div>
+      <small style="font-size: 12px; color: red;">*Limit file type try to upload .jpg or .png only</small>
     </div>
-    <div class="cs-height__30 cs-height__lg__30"></div>
+    <div class="cs-height__25 cs-height__lg__15"></div>
     <form action="/upload" method="POST" enctype="multipart/form-data">
       <!-- Input untuk memilih file -->
-      <div class="form-group " style="margin-left:35%">
-        <label for="image" class="form-label">Pilih Gambar</label>
-        <input type="file" class="form-control-file" name="image" id="image" accept=".jpg, .jpeg, .png" required>
+      <div class="form-group">
+        <div class="card">
+          <input type="file" class="dropify" data-allowed-file-extensions="jpg jpeg png">
+        </div>
       </div>
-      <div class="cs-height__30 cs-height__lg__30"></div>
-      <div class="cs-btns cs-style1" style="margin-left:42%">
-        <a href="#" class="cs-btn cs-style1 cs-color1 cs-primary__font">
-          <span class="cs-btn__text">Submit</span>
-        </a>
-      </div>
+      <div class="cs-height__25 cs-height__lg__15"></div>
+      <a href="#" class="cs-btn cs-style1 cs-color1 cs-primary__font">
+        <span class="cs-btn__text">Submit</span>
+      </a>
     </form>
   </div>
   <!-- End Form Upload File -->

@@ -19,6 +19,7 @@
   <link rel="stylesheet" href="assets/css/animate.min.css">
   <link rel="stylesheet" href="assets/css/animated-headline.css">
   <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="assets/drop/dropify/css/dropify.min.css">
 </head>
 
 <body>

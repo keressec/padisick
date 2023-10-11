@@ -10,6 +10,8 @@
   <script src="assets/js/jquery-ui.min.js"></script>
   <script src="assets/js/animated-headline.js"></script>
   <script src="assets/js/main.js"></script>
+  <script src="assets/drop/dropify/js/dropify.min.js"></script>
+  <script src="assets/js/dropify.js"></script>
   </body>
 
   </html>
