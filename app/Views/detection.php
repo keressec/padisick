@@ -104,7 +104,7 @@
         </div>
       </div>
       <div class="cs-height__25 cs-height__lg__15"></div>
-      <a href="#" class="cs-btn cs-style1 cs-color1 cs-primary__font">
+      <a href="<?= base_url('/prediction') ?>" class="cs-btn cs-style1 cs-color1 cs-primary__font">
         <span class="cs-btn__text">Submit</span>
       </a>
     </form>

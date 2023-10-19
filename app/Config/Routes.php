@@ -8,3 +8,5 @@ use CodeIgniter\Router\RouteCollection;
 $routes->get('/', 'HomepageController::index');
 $routes->get('/about-us', 'AboutController::index');
 $routes->get('/detection', 'DetectionController::index');
+$routes->get('/prediction', 'DetectionController::prediction');
+$routes->post('/prediction', 'DetectionController::prediction');

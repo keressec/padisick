@@ -84,7 +84,7 @@
     <div class="col-xl-4 col-sm-6">
       <div class="cs-member cs-style1 text-center">
         <div class="cs-member__img">
-          <img src="assets/img/others/member1.jpg" alt="">
+          <img src="assets/img/about/azis.jpg" alt="">
           <div class="cs-member__social">
             <a href="#"><i class="fab fa-facebook-f"></i></a>
             <a href="#"><i class="fab fa-twitter"></i></a>
@@ -102,7 +102,7 @@
     <div class="col-xl-4 col-sm-6">
       <div class="cs-member cs-style1 text-center">
         <div class="cs-member__img">
-          <img src="assets/img/others/member3.jpg" alt="">
+          <img src="assets/img/about/yoel.jpg" alt="">
           <div class="cs-member__social">
             <a href="#"><i class="fab fa-facebook-f"></i></a>
             <a href="#"><i class="fab fa-twitter"></i></a>
@@ -120,7 +120,7 @@
     <div class="col-xl-4 col-sm-6">
       <div class="cs-member cs-style1 text-center">
         <div class="cs-member__img">
-          <img src="assets/img/others/member4.jpg" alt="">
+          <img src="assets/img/about/roy.jpg" alt="">
           <div class="cs-member__social">
             <a href="#"><i class="fab fa-facebook-f"></i></a>
             <a href="#"><i class="fab fa-twitter"></i></a>

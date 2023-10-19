@@ -35,7 +35,7 @@
           <ul class="menu">
             <li><a href="<?= base_url('/') ?>">Beranda</a></li>
             <li><a href="<?= base_url('/') ?>">Info</a></li>
-            <li><a href="<?= base_url('/') ?>">Deteksi</a></li>
+            <li><a href="<?= base_url('/detection') ?>">Deteksi</a></li>
             <li><a href="<?= base_url('/about-us') ?>">Tentang</a></li>
           </ul>
         </div>
