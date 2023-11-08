@@ -34,7 +34,7 @@
           <h2 class="cs-widget__title">Quick Links</h2>
           <ul class="menu">
             <li><a href="<?= base_url('/') ?>">Beranda</a></li>
-            <li><a href="<?= base_url('/') ?>">Info</a></li>
+            <li><a href="<?= base_url('/info') ?>">Info</a></li>
             <li><a href="<?= base_url('/detection') ?>">Deteksi</a></li>
             <li><a href="<?= base_url('/about-us') ?>">Tentang</a></li>
           </ul>

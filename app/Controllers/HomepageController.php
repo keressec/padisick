@@ -4,7 +4,7 @@ namespace App\Controllers;
 
 class HomepageController extends BaseController
 {
-    public function index(): string
+    public function index()
     {
         $data['title'] = 'Beranda';
         return view('components/header', $data) .

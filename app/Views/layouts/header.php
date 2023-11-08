@@ -10,7 +10,7 @@
             <ul class="cs-nav__list">
               <li class="menu-item cs-mega-menu"><a href="<?= base_url('/') ?>">Beranda</a>
               </li>
-              <li class="menu-item cs-mega-menu"><a href="#">Info</a>
+              <li class="menu-item cs-mega-menu"><a href="<?= base_url('/info') ?>">Info</a>
               </li>
               <li class="menu-item cs-mega-menu"><a href="<?= base_url('/detection') ?>">Deteksi</a>
               </li>
